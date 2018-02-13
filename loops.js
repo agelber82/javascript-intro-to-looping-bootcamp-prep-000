@@ -10,4 +10,6 @@ function forLoop(array) {
 }
 fucntion whileLoop(n) {
   let countdown = n;
+  
+  while (countdown > 0)
 }
