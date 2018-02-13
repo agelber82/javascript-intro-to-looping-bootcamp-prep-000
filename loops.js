@@ -8,6 +8,6 @@ function forLoop(array) {
   }
   return array;
 }
-fucntion whileLoop(array) {
+fucntion whileLoop(n) {
   while ()
 }
